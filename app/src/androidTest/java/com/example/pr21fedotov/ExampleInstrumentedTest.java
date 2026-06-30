@@ -1,4 +1,4 @@
-package com.example.pr21homyakov;
+package com.example.pr21fedotov;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.pr21homyakov", appContext.getPackageName());
+        assertEquals("com.example.pr21fedotov", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.pr21homyakov;
+package com.example.pr21fedotov;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
